@@ -1,6 +1,6 @@
 ## 🌸 Hi there. I’m Giovanna 🌸
 - I’m a systems analysis and development student at the University Paulista - UNIP.
-- I’m currently learning about HTML, CSS, JavaSCript, Git and VScode.
+- I’m currently learning about HTML, CSS, JavaSCript, Git and Angular.
 - Fun Fact: I also make biscuit arts 💕!! <br>
 
 ## Languages and Tools 💻
