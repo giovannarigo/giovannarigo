@@ -11,6 +11,7 @@
   <img width="50" height="40" alt="Gi-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg">
   <img width="50" height="40" alt="Gi-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
   <img width="50" height="40" alt="Gi-C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg">
+<!--   <img width="50" height="40" alt="Gi-CSharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"> -->
   <img width="50" height="40" alt="Gi-Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
 </div>
 
