@@ -1,6 +1,6 @@
 ## 🌸 Hi there. I’m Giovanna 🌸
 - I’m a systems analysis and development student at the University Paulista - UNIP.
-- I’m currently learning about JavaScript, C# and Angular.
+- I’m currently learning about JavaScript, Typescript, C#, Angular and React.
 - Fun Fact: I also make biscuit arts 💕!! <br>
 
 ## Languages and Tools 💻
