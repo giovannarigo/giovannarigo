@@ -9,10 +9,14 @@
   <img width="50" height="40" alt="Gi-VScode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg">
   <img width="50" height="40" alt="Gi-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
   <img width="50" height="40" alt="Gi-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg">
+  <img width="50" height="40" alt="Gi-Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>     
   <img width="50" height="40" alt="Gi-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
+<!--   <img width="50" height="40" alt="Gi-TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">   -->
   <img width="50" height="40" alt="Gi-C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg">
 <!--   <img width="50" height="40" alt="Gi-CSharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"> -->
   <img width="50" height="40" alt="Gi-Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
+  <img width="50" height="40" alt="Gi-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />  
+             
 </div>
 
 ## GitHub Stats 📈
