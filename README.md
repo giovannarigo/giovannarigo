@@ -14,7 +14,7 @@
   <img width="50" height="40" alt="Gi-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
 <!--   <img width="50" height="40" alt="Gi-TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">   -->
   <!-- <img width="50" height="40" alt="Gi-C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"> -->
-<!--   <img width="50" height="40" alt="Gi-CSharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg"> -->
+  <img width="50" height="40" alt="Gi-CSharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg">
   <img width="50" height="40" alt="Gi-Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
   <img width="50" height="40" alt="Gi-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img width="50" height="40" alt="Gi-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
@@ -22,8 +22,13 @@
 </div>
 
 ## GitHub Stats 📈
-![giovanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannarigo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannarigo&layout=compact&theme=tokyonight)
+<div>
+  <a href="https://github.com/giovannarigo">
+    
+  ![giovanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannarigo&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannarigo&layout=compact&theme=tokyonight)
+  
+</div>
 
 ## Reach me 📱
 <div>
@@ -31,14 +36,3 @@
   <a href="https://www.instagram.com/giovannarigo_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:giovannarigo.tech@gmail.com" target="_blank"><img src="https://img.shields.io/badge/giovannarigo.tech@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
