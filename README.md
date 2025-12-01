@@ -1,6 +1,6 @@
 ## 🌸 Hi there. I’m Giovanna 🌸
 - I’m a systems analysis and development student at the University Paulista - UNIP.
-- I’m currently learning about Java and React.
+- I’m currently learning about Java and Angular.
 - Fun Facts: I also make Biscuit Art's, Video Editing and Digital Art's 💕!! <br>
 
 ## Languages and Tools 💻
@@ -22,13 +22,10 @@
 </div>
 
 ## GitHub Stats 📈
-<div>
-  <a href="https://github.com/giovannarigo">
-    
-  ![giovanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannarigo&show_icons=true&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannarigo&layout=compact&theme=tokyonight)
+  ![](https://nirzak-streak-stats.vercel.app/?user=giovannarigo&theme=tokyonight&hideborder=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannarigo&theme=tokyonight&hideborder=false&includeallcommits=true&countprivate=false&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannarigo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
   
-</div>
 
 ## Reach me 📱
 <div>
