@@ -22,8 +22,8 @@
 </div>
 
 ## GitHub Stats 📈
-  ![](https://nirzak-streak-stats.vercel.app/?user=giovannarigo&theme=tokyonight&hideborder=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannarigo&theme=tokyonight&hideborder=false&includeallcommits=true&countprivate=false&layout=compact)
+  <!-- ![](https://nirzak-streak-stats.vercel.app/?user=giovannarigo&theme=tokyonight&hideborder=false) -->
+  ![](https://github-readme-stats.vercel.app/api?username=giovannarigo&show_icons=true&theme=tokyonight)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannarigo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
   
 
