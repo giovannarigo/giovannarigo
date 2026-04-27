@@ -5,20 +5,19 @@
 
 ## Languages and Tools 💻
 <div>
-  <img width="50" height="40" alt="Gi-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img width="50" height="40" alt="Gi-VScode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"/>
-  <img width="50" height="40" alt="Gi-IntelliJ" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
-  <img width="50" height="40" alt="Gi-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"/>
-  <img width="50" height="40" alt="Gi-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"/>
-  <img width="50" height="40" alt="Gi-Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>     
-  <img width="50" height="40" alt="Gi-JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
-<!--   <img width="50" height="40" alt="Gi-TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">   -->
-  <!-- <img width="50" height="40" alt="Gi-C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"> -->
-  <img width="50" height="40" alt="Gi-CSharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg">
-  <img width="50" height="40" alt="Gi-Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
-  <img width="50" height="40" alt="Gi-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-  <img width="50" height="40" alt="Gi-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
-             
+  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/IntelliJ-E036B7?style=for-the-badge&logo=intellij&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/HTML-E34400?style=for-the-badge&logo=html&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/CSS-554EDE?style=for-the-badge&logo=css&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Sass-B600E0?style=for-the-badge&logo=sass&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/CSharp-black?style=for-the-badge&logo=csharp&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Angular-E10817?style=for-the-badge&logo=angular&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/React-5AE0BD?style=for-the-badge&logo=react&logoColor=black" target="_blank">
+  <img src="https://img.shields.io/badge/Java-E00040?style=for-the-badge&logo=java&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/Python-2025E1?style=for-the-badge&logo=python&logoColor=white" target="_blank">
+      
 </div>
 
 ## GitHub Stats 📈
