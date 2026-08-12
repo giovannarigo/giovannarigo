@@ -1,7 +1,6 @@
 ## 🌸 Hi there. I’m Giovanna 🌸
 - I’m a systems analysis and development student at the University Paulista - UNIP.
-- I’m currently learning about Python and React.
-- Fun Facts: I also make Biscuit Art's, Video Editing and Digital Art's 💕!! <br>
+- I’m currently learning about Java and Angular.
 
 ## Languages and Tools 💻
 <div>
